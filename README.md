@@ -36,3 +36,4 @@ A modern live chat application designed for seamless real-time communication. Bu
 - **CORS**: For secure cross-origin resource sharing.
 
 ---
+
