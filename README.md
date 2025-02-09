@@ -37,3 +37,4 @@ A modern live chat application designed for seamless real-time communication. Bu
 
 ---
 
+![View Diagram](https://github.com/Real-VeerSandhu/socket-wave/blob/deployment/diagram.png)
